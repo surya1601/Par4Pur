@@ -39,8 +39,8 @@ html, body{
 /* fonts */
 @font-face {
   font-family: "Apfel Grotezk";
-  src: url("Fonts/ApfelGrotezk-Fett.woff2") format("woff2"),
-       url("Fonts/ApfelGrotezk-Fett.woff") format("woff");
+  src: url("ApfelGrotezk-Fett.woff2") format("woff2"),
+       url("ApfelGrotezk-Fett.woff") format("woff");
 }
 
 
