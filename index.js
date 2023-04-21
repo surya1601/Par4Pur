@@ -138,7 +138,9 @@ let generateCards = () => {
             return `
             <div class="card1" id="hotel-id-${x.id}">
             <div class="img1">
+                <a href="hotels/index.html">
                 <img src=${x.img} alt="img" class="img">
+                </a>
             </div>
             <div class="content">
                 <h2>${x.title}</h2>
@@ -165,7 +167,9 @@ showMore.addEventListener('click', () => {
             return `
             <div class="card1" id="hotel-id-${x.id}">
             <div class="img1">
+                <a href="hotels/index.html">
                 <img src=${x.img} alt="img" class="img">
+                </a>
             </div>
             <div class="content">
                 <h2>${x.title}</h2>
